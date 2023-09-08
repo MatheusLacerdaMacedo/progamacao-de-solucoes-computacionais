@@ -16,6 +16,7 @@ public class SalarioMinimoDialogo {
 		JOptionPane.showMessageDialog(null, "O funcionario recebe " + numerosalarios + " salarios minimos.");
 
 		System.exit(0);
+		System.exit(0);
 
 	}
 

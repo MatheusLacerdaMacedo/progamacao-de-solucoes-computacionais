@@ -12,6 +12,7 @@ public class PesoDialogo {
 		JOptionPane.showMessageDialog(null, "Peso se engordar : " + engordar + "kg.");
 		JOptionPane.showMessageDialog(null, "Peso se emagrecer :" + emagrecer + "kg");
 		
+		System.exit(0);
 
 	}
 

@@ -16,7 +16,7 @@ public class Losango {
 		
 		System.out.println("O valor da area e:" + area);
 	
-
+		System.exit(0);
 	}
 
 }

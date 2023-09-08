@@ -18,7 +18,7 @@ public class Salario {
 		System.out.println("O salario novo e R$" + salarionovo);
 		
 		System.exit(0);
-		
+		System.exit(0);
 		
 		
 	}

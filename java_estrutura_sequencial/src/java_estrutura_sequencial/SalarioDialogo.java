@@ -15,7 +15,7 @@ public class SalarioDialogo {
 		JOptionPane.showMessageDialog(null, "O novo salario é R$" + salarionovo);
 		
 		System.exit(0);
-				
+		System.exit(0);		
 				
 	
 	}

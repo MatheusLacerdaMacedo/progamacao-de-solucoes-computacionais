@@ -11,7 +11,7 @@ public class HipotenusaDialogo {
 		
 		  double hipotenusa = Math.sqrt(cateto1 * cateto1 + cateto2 * cateto2);
 		JOptionPane.showMessageDialog(null,"O valor da hipotenusa é: " + hipotenusa);
-		
+		System.exit(0);
 	}
 
 }

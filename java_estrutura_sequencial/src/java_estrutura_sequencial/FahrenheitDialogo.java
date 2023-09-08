@@ -11,7 +11,7 @@ public class FahrenheitDialogo {
 		double fahrenheit = celsius * taxa + 32 ;
 		
 		JOptionPane.showMessageDialog(null, "A temperatura em Fahrenheit é " + fahrenheit + "F");
-		
+		System.exit(0);
 
 	}
 

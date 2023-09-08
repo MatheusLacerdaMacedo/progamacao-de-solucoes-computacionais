@@ -22,5 +22,6 @@ public class CalculoEsfera {
         System.out.println("Volume da esfera: " + volumeEsfera);
         
         input.close();
+        System.exit(0);
     }
 }

@@ -13,7 +13,7 @@ public class Hipotenusa {
 		double hipotenusa = Math.sqrt(Math.pow(catetoA, 2) + Math.pow(catetoB, 2));
 		System.out.println("Valor da hipotenusa: " + hipotenusa);
 		input.close();
-		
+		System.exit(0);
 	}
 
 }

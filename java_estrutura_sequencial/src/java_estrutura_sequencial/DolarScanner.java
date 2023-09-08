@@ -20,5 +20,6 @@ public class DolarScanner {
 	        System.out.println("O valor em reais é: R$" + valorEmReais);
 
 	        input.close();
+	        System.exit(0);
 	    }
 	}

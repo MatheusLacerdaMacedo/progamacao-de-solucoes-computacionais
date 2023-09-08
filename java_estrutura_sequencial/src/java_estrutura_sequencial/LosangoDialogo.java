@@ -11,7 +11,7 @@ public class LosangoDialogo {
 		double area = maior * menor / 2;
 		
 		JOptionPane.showMessageDialog(null,"A area de seu losango e:" + area);
-
+		System.exit(0);
 	}
 
 }

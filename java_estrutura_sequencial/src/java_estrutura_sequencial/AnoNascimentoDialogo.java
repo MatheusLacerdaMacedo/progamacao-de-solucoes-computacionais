@@ -18,6 +18,7 @@ public class AnoNascimentoDialogo {
 	
 	JOptionPane.showMessageDialog(null, "Idade atual: " + idadeAtual + "anos.");
 	JOptionPane.showMessageDialog(null, "Idade em 2050: " + idade2050 + "anos.");
+	System.exit(0);
 
 	 
 	}

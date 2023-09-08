@@ -14,6 +14,7 @@ public class Dolar {
 		JOptionPane.showMessageDialog(null, "O valor em reais é : R$" + real);
 		
 		System.exit(0);
+		System.exit(0);
 
 	}
 

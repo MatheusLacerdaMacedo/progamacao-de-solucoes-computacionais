@@ -14,6 +14,7 @@ public class Fahrenheit {
 		double fahrenheit = temperatura * taxa + 32;
 
 		System.out.println("A temperatura em Fahrenheit e " + fahrenheit + "F.");
+		System.exit(0);
 
 	}
 

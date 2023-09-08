@@ -14,6 +14,7 @@ public class Peso {
         System.out.println("Se a pessoa emagrecer 20%, o novo peso será: " + novoPesoEmagrecer + " kg");
 
         scanner.close();
+        System.exit(0);
     }
 
     public static double calcularNovoPesoEngordar(double pesoAtual) {

@@ -18,5 +18,6 @@ public class CalculoDeMedia {
 		double media = (nota1 + nota2 + nota3) / 3;
 		System.out.println("A media das notas e:" + media);
 		scanner.close();
+		System.exit(0);
 	}
 }

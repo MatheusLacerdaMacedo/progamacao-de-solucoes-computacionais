@@ -20,6 +20,7 @@ public class AnoNascimento {
 		System.out.println("Idade em 2050: " + idade2050 + "anos.");
 		
 		input.close();
+		System.exit(0);
 	}
 }
 

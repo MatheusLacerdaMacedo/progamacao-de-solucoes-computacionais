@@ -17,7 +17,7 @@ public class SalarioMinimo {
 		System.out.printf("O funcionario recebe %.2f salarios minimos. %n", numerosalarios);
 		
 		input.close();
-		
+		System.exit(0);
 
 
 	}

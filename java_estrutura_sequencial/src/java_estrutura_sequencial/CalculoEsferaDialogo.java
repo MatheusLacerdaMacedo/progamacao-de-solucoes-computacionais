@@ -22,6 +22,7 @@ public class CalculoEsferaDialogo {
         JOptionPane.showMessageDialog(null, "Comprimento da esfera: " + comprimentoEsfera);
         JOptionPane.showMessageDialog(null, "Área da esfera: " + areaEsfera);
         JOptionPane.showMessageDialog(null, "Volume da esfera: " + volumeEsfera);
+        System.exit(0);
     }
 }
 		

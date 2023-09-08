@@ -16,5 +16,6 @@ public class CalculoDeMediaDialogo {
 
 		JOptionPane.showMessageDialog(null, "A media das notas é:" + media);
 		System.exit(0);
+		System.exit(0);
 	}
 }
