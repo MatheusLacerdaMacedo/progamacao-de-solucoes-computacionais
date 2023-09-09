@@ -16,7 +16,7 @@ public class AnoNascimento {
 		int ano2050 = 2050;
 		int idade2050 = ano2050 - anoNascimento;
 		
-		System.out.println("Idade atual:" + idadeAtual + "anos.");
+		System.out.println("Idade atual: " + idadeAtual + "anos.");
 		System.out.println("Idade em 2050: " + idade2050 + "anos.");
 		
 		input.close();
