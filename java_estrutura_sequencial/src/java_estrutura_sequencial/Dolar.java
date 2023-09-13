@@ -7,7 +7,7 @@ public class Dolar {
 		double cotacao = Double.parseDouble(cotacaoStr);
 		
 		String valordolarStr = javax.swing.JOptionPane.showInputDialog("Digite o valor em dólares:");
-		double valordolar =- Double.parseDouble(valordolarStr);
+		double valordolar = Double.parseDouble(valordolarStr);
 		
 		double real = valordolar * cotacao;
 		
